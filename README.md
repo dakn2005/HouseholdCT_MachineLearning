@@ -2,6 +2,8 @@
 # Capstone Project
 ## Project: Classifying Households
 
+This project uses supervised learning techniques for classification of households into two groups for payments via cash transfers
+
 ## Install
 
 This project requires **Python 3.6.* ** and the following Python libraries installed:

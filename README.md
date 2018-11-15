@@ -2,7 +2,7 @@
 # Capstone Project
 ## Project: Classifying Households
 
-This project uses supervised learning techniques for classification of households into two groups for payments via cash transfers
+[This project](https://htmlpreview.github.io/?https://github.com/dakn2005/HouseholdCT_MachineLearning/blob/master/household_CT.html) uses supervised learning techniques for classification of households into two groups for payments via cash transfers
 
 ## Install
 
